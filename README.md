@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  <h2>I'm UMAIYAVAN</h2>
   <h3>🚀 Full-Stack Developer | AI Enthusiast | Automation Specialist</h3>
   <p>Sophomore at Easwari Engineering College, passionate about creating innovative solutions</p>
 
