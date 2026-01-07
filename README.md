@@ -1,5 +1,3 @@
-# 🌟 Umaiyavan's Portfolio Website
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=388bfd26&text=Hi%20Everyone!!&reversal=true&fontAlignY=50&animation=fadeIn&fontColor=FFFFFF"/>
 </div>
