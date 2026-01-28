@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>I'm UMAIYAVAN</h2>
-  <h3>🚀 Full-Stack Developer | AI Enthusiast | Automation Specialist</h3>
+  <h3>🚀 Full-Stack Developer | AI Enthusiast </h3>
   <p>Sophomore at Easwari Engineering College, passionate about creating innovative solutions</p>
 
   <p align="center">
@@ -16,7 +16,7 @@
 ## 🎯 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Automation+Specialist;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG">
 </div>
 
 I'm a **Sophomore at Easwari Engineering College** with a keen interest in **software development, automation, and AI Agents**. I love creating innovative solutions that solve real-world problems and contribute to the open-source community.
